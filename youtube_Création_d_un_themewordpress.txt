@@ -1,3 +1,3 @@
 vidéo sur créer un thème on scratch https://www.youtube.com/watch?v=Vl8rDzvwQ0c&t=133s
 chemin du dossier "monsupertheme" en local :
-cd '/c/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/wordpress01/wp-content/themes/monsupertheme'
+cd '/c/Program Files/EasyPHP-DevServer-14.1VC11/data/localweb/wordpress/wp-content/themes/monsupertheme'
