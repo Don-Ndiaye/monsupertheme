@@ -15,7 +15,7 @@
 		<article>
 		<?php the_post_thumbnail(medium); ?>
 		<h1><?php the_title(); ?></h1>
-		<?php the_content();?>
+		<?php the_excerpt();?>
 		</article>
 		<?php endwhile; ?>
 	</main>
